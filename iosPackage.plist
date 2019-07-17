@@ -8,7 +8,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://192.168.10.35/GApp_iOS_CE_AdHoc.ipa</string>
+<string>https://github.com/liujialin/Test/blob/master/GApp_iOS_CE_AdHoc.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
